@@ -8,4 +8,5 @@ Based on [LazyVim](https://github.com/LazyVim/LazyVim).
 
 - Replaced Snack-Explorer with Yazi.nvim
 - Replaced Telescope with Fzflua
-# nvim-master
+
+# 2025-12-01 update to repo: nvim-master
